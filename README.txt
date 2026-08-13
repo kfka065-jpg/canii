@@ -1,0 +1,1 @@
+Masukkan musik kamu dengan nama musik.mp3 di folder utama. Lalu upload semua isi folder ini ke GitHub.
